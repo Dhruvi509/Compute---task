@@ -1,0 +1,33 @@
+.form-filling
+{
+  text-align: center;
+  padding: 40px;
+}
+form{
+  padding-top: 90px;
+}
+.form-l
+{
+  font-size: 14px;
+  font-family: Montserrat, sans-serif;
+  color: #333333;
+  font-weight: 1000;
+  padding: 10px;
+  padding-top: 90px;
+}
+.form-i
+{
+  height: 38px;
+  width: 700px;
+  padding: 10px;
+}
+textarea{
+  width: 700px;
+}
+button
+{
+  
+  background: white;
+  border: 2px solid black;
+  padding: 15px 35px;
+}

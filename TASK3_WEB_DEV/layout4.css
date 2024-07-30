@@ -1,0 +1,42 @@
+.layout-4 {
+  border: 10px solid white;
+  border-top: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.img-4-stylying {
+  height: 300px;
+  border: 10px solid white;
+  background-position: 50% 50%;
+  background-size: cover;
+}
+#imag1 {
+  background-image: url(images/img7.jpg);
+
+  /* border-right: 10px solid white; */
+}
+#imag2 {
+  background-image: url(images/img8.jpg);
+  /* border-left: 10px solid white;
+  border-right: 10px solid white; */
+}
+#imag3 {
+  background-image: url(images/img9.jpg);
+  /* border-left: 10px solid white;
+  border-right: 10px solid white; */
+}
+#imag4 {
+  background-image: url(images/img10.jpg);
+  /* border-left: 10px solid white;
+ */}
+.img-4-stylying:hover{
+  filter: brightness(40%);
+}
+.img-4-stylying:hover p
+{
+  visibility: visible;
+  text-align: center;
+  color: rgba(255, 255, 255,1);
+  padding-top: 100px;
+  
+}
